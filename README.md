@@ -1,6 +1,6 @@
 # ¡Bienvenido!
 
-Hey! Soy Aure, y vengo a enseñar una "pisca" de **PostgreSQL**  v12.9. 
+¡Hey! Una "pisca" de **PostgreSQL**  v12.9. 
 
 No me sumergiré en grandes explicaciones dado que toda documentación se encuentra en [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 
